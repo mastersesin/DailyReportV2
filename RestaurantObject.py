@@ -21,3 +21,4 @@ class resObj():
         #ID declaration
         self.codeName = ""
         self.hashcode = ""
+print("hello")
